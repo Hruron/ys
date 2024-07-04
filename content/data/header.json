@@ -24,7 +24,7 @@
             "label": "Blog",
             "altText": "Blog",
             "url": "/blog",
-            "icon": "arrowRight",
+            "icon": "",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link",
